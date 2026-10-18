@@ -39,7 +39,8 @@ apis:
   - name: Sport Places
     description: "Crowd-source sports places around the world"
     humanURL: https://developers.decathlon.com/products/sport-places
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
